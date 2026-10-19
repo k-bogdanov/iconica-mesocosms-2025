@@ -7,7 +7,7 @@
 | Parameter | Experiment one (188 SSP) | Experiment two (250 SSP) |
 |---|---|---|
 | Input material | Perennial ryegrass roots | Maize leaves |
-| Application rate (µg C g⁻¹) | 1150 | 11070 |
+| Application rate (µg C g⁻¹) | 1,150 | 11,070 |
 | C (%) | 40 | 41 |
 | N (%) | 1 | 1.83 |
 | P (%) | 0.25 | 0.15 |
