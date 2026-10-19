@@ -3,4 +3,16 @@
 **Abstract for the study**
 >In grassland agroecosystems, phosphorus (P) fertilisation is essential for productivity, but its long-term role in regulating soil carbon (C) and nitrogen (N) transformations remains uncertain. Soils from a 70-year field fertilisation experiment at the Winchmore Research Station, New Zealand, were used to examine how single superphosphate (SSP) affected short-term C and N cycling and soil microbial communities. Two mesocosm incubations used soils from non-fertilised and fertilised plots (188 or 250 kg ha<sup>-1</sup> yr<sup>-1</sup> SSP), amended with ammonium nitrate (NH<sub>4</sub>NO<sub>3</sub>) and low (ryegrass roots) or high (maize leaves) organic C inputs, representing contrasting residue scenarios under long-term P history. P fertilisation affected microbial biomass C (MBC) but not hot-water extractable C in the low-C scenario, with fertilised soil showing lower MBC accumulation than non-fertilised soil. Nitrous oxide (N2O) flux was significantly higher in fertilised soil despite no difference on most days, and cumulative carbon dioxide (CO<sub>2</sub>) and N<sub>2</sub>O emissions were higher in fertilised soil overall. P effects on short-term C and N cycling were therefore often smaller than differences between residue scenarios, but were still detected as an integrated, cumulative effect. P fertilisation consistently affected microbial taxa linked to N cycling, including a reproducible decline in Bradyrhizobium elkanii and a genus-level divergence within Mortierella, both replicated across both experiments. Long-term P fertilisation altered measured inorganic N dynamics and was correlated with reproducible shifts in microbial taxa linked to N cycling, while short-term C and N pool dynamics were more strongly related to residue amount and quality than to P history.
 
+**Organic input information**
+| Parameter | Experiment one (188 SSP) | Experiment two (250 SSP) |
+|---|---|---|
+| Input material | Perennial ryegrass roots | Maize leaves |
+| Application rate (µg C g⁻¹) | 1150 | 11070 |
+| C (%) | 40 | 41 |
+| N (%) | 1 | 1.83 |
+| P (%) | 0.25 | 0.15 |
+| ¹⁵N (atom%) | 12.1 | 0.3668 |
+
 Raw sequencing data are available here: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1347125
+
+The DOI will be available soon.
